@@ -35,7 +35,7 @@ Mobilemoney folder
 
 ### View Live Site
 
-Visit the deployed application at: https://github.com/Tiffany-Mwikali-git/CodeChallenge1
+Visit the deployed application at: https://Tiffany-Mwikali-git.github.io/CodeChallenge1/
 
 
 ### Local Development
